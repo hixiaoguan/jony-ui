@@ -1,0 +1,9 @@
+{
+  "name": "jony-ui",
+  "version": "1.0.0",
+  "dependencies": {
+    "Framework7": "framework7#^1.4.2",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {}
+}
