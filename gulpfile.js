@@ -8,7 +8,7 @@ var gulp = require('gulp'),
     usemin = require('gulp-usemin'),
     htmlmin = require('gulp-htmlmin');
 //路径设定
-var path = 'demo';
+var path = 'default';
 var paths = {
     distRoot: 'dist/'+path,
     srcRoot: 'src/'+path,
